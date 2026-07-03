@@ -65,7 +65,7 @@ Built with Python, Pyrogram, and Py-TgCalls, it’s optimized for reliability an
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-[![CHIKOO]([https://files.catbox.moe/6notyf.jpg](https://files.catbox.moe/7k4wox.jpg))](https://t.me/PREMGUPTA2M)
+[![PREMGUPTA]([https://files.catbox.moe/6notyf.jpg](https://files.catbox.moe/7k4wox.jpg))](https://t.me/PREMGUPTA2M)
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
